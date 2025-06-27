@@ -23,7 +23,7 @@ result = hap(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 print("합계:", result)"""
 
 # list가 인자인 함수 만들기
-def hap(list):
+"""def hap(list):
     h = 0
     for i in list:
         h += i
@@ -31,4 +31,4 @@ def hap(list):
 
 a = [1, 2, 3, 4, 5, 6]
 result = hap(a)
-print("합계:", result)
+print("합계:", result)"""
