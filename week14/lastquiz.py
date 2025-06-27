@@ -1,3 +1,4 @@
+// 예시 파일을 이용해 워드클라우드를 만드는 코드
 from konlpy.tag import Okt
 from wordcloud import WordCloud
 from PIL import Image
