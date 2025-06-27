@@ -1,3 +1,4 @@
+// 수업시간에 만든 워드클라우드 구현 프로그램
 from konlpy.tag import Okt
 from wordcloud import WordCloud
 from PIL import Image
