@@ -9,9 +9,9 @@ print('원의 둘레는 ', 둘레)
 print('원의 면적은 ', 면적)"""
 
 #3.코딩문제
-input_sec = int(input("초 단위 시간을 입력하세요: "))
+"""input_sec = int(input("초 단위 시간을 입력하세요: "))
 
 minute = input_sec // 60
 second = input_sec % 60
 
-print(">>", minute, "\b분", second, "\b초 입니다!")
+print(">>", minute, "\b분", second, "\b초 입니다!")"""
